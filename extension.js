@@ -20,7 +20,7 @@ const messages = {
 
 // Paths and directoies to VS Code itself.
 const appDirectory = path.dirname(require.main.filename);
-const cssPath = path.join(appDirectory, "/vs/workbench/workbench.main.css");
+const cssPath = path.join(appDirectory, "/vs/workbench/workbench.desktop.main.css");
 
 // Comments to indicate where the injected code begins and ends.
 const beginComment = "/* Begin SmoothType */";

@@ -1,5 +1,8 @@
 # SmoothType for Visual Studio Code
 
+## FIXED
+css file issue
+
 > ## DEPRECATION NOTICE
 > For all intents and purposes, this project is deprecated and archived. There will be no further development, and support is not guaranteed.
 >
